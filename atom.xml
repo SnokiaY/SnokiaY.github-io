@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SnokiaY.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-07T04:32:16.720Z</updated>
+    <title>Love Letter</title>
+    <updated>2020-04-07T04:34:49.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SnokiaY.github.io"/>
     <link rel="self" href="https://SnokiaY.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一只初涉博客的小萌新~~</subtitle>
     <logo>https://SnokiaY.github.io/images/avatar.png</logo>
     <icon>https://SnokiaY.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Love Letter</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://SnokiaY.github.io/post/hello-gridea/</id>
