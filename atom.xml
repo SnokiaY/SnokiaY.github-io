@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SnokiaY.github.io</id>
     <title>Love Letter</title>
-    <updated>2020-04-07T04:37:55.542Z</updated>
+    <updated>2020-06-07T07:52:48.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SnokiaY.github.io"/>
     <link rel="self" href="https://SnokiaY.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://SnokiaY.github.io/images/avatar.png</logo>
     <icon>https://SnokiaY.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Love Letter</rights>
+    <entry>
+        <title type="html"><![CDATA[小小的记录~]]></title>
+        <id>https://SnokiaY.github.io/post/xiao-xiao-de-ji-lu-~/</id>
+        <link href="https://SnokiaY.github.io/post/xiao-xiao-de-ji-lu-~/">
+        </link>
+        <updated>2020-06-07T07:49:36.000Z</updated>
+        <content type="html"><![CDATA[<p>希望以后的自己不要忘了哦</p>
+<p>苏凯亮 历史78 班级1 年级8<br>
+政治65 班级20 年级368<br>
+地理70 班级12 年级160</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://SnokiaY.github.io/post/hello-gridea/</id>
